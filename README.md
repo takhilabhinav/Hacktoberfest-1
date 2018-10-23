@@ -15,6 +15,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 
   * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil)
   * **Josh Edewa** - [edewajosh](https://github.com/edewajosh)
+  * **Mj Perpinosa** - [granaderos](https://github.com/granaderos)
   * **Michał Krychniak** - [KauczukoweJajo](https://github.com/KauczukoweJajo)
   * **Emmanuel Arias** - [eamanu](https://github.com/eamanu)
   * **dhaveed** - [dhaveed](https://github.com/dhaveed)
