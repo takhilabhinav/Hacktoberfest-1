@@ -81,7 +81,6 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Shashank Gupta** - [AkkiShashank](https://github.com/AkkiShashank)
   * **Steven T** - [z717](https://github.com/z717)
   * **Welligton Miguel** - [I-am-Miguel](https://github.com/I-am-Miguel)
-  * **lokke-me** - [lokke-me](https://github.com/lokke-me)
   * **Mocanu Viorel Gabriel** - [gabrielmocanu](https://github.com/gabrielmocanu)
   * **Yashasvi Goel** - [yashasvi-goel](https://github.com/yashasvi-goel)
 
