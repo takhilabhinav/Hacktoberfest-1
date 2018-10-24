@@ -83,6 +83,8 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Welligton Miguel** - [I-am-Miguel](https://github.com/I-am-Miguel)
   * **Mocanu Viorel Gabriel** - [gabrielmocanu](https://github.com/gabrielmocanu)
   * **Yashasvi Goel** - [yashasvi-goel](https://github.com/yashasvi-goel)
+  * **Hideaki Oshima** - [b-i-hide](https://github.com/b-i-hide)
+  * **George McCarron** - [george1410](https://github.com/george1410)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
