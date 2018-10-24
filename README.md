@@ -15,6 +15,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 
   * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil)
   * **Josh Edewa** - [edewajosh](https://github.com/edewajosh)
+  * **Mj Perpinosa** - [granaderos](https://github.com/granaderos)
   * **Michał Krychniak** - [KauczukoweJajo](https://github.com/KauczukoweJajo)
   * **Emmanuel Arias** - [eamanu](https://github.com/eamanu)
   * **dhaveed** - [dhaveed](https://github.com/dhaveed)
@@ -80,6 +81,8 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Shashank Gupta** - [AkkiShashank](https://github.com/AkkiShashank)
   * **Steven T** - [z717](https://github.com/z717)
   * **Welligton Miguel** - [I-am-Miguel](https://github.com/I-am-Miguel)
+  * **Mocanu Viorel Gabriel** - [gabrielmocanu](https://github.com/gabrielmocanu)
+  * **Yashasvi Goel** - [yashasvi-goel](https://github.com/yashasvi-goel)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
