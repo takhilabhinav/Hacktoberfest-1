@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	nums := []int{1, 9, 4, 6, 3, 8, 2, 5, 7}
-	fmt.Println(BubbleSort2(nums))
+	fmt.Println(BubbleSort(nums))
 }
 
 func BubbleSort(a []int) []int {
