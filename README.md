@@ -87,6 +87,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **George McCarron** - [george1410](https://github.com/george1410)
   * **Rizal Prasetya** - [prasetya12](https://github.com/prasetya12)
   * **Parinya Onsuwan** - [parinz1234](https://github.com/parinz1234)
+  * **Ema Fazillah** - [emafazillah](https://github.com/emafazillah)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
