@@ -88,6 +88,8 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Rizal Prasetya** - [prasetya12](https://github.com/prasetya12)
   * **Parinya Onsuwan** - [parinz1234](https://github.com/parinz1234)
   * **Ema Fazillah** - [emafazillah](https://github.com/emafazillah)
+  * **Kamchai Boonruam** - [JackyBeatles](https://github.com/JackyBeatles)
+  * **DragonFury24** - [DragonFury24](https://github.com/DragonFury24)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
