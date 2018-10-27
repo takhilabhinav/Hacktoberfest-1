@@ -97,6 +97,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Panagiotis Kazakos** - [pkaz](https://github.com/pkaz)
   * **Alan Fagundes** - [alanfgn](https://github.com/alanfgn)
   * **nityaGupta** - [nityaGupta](https://github.com/nityaGupta)
+  * **dkessel** - [dkessel](https://github.com/dkessel)
   * **Archit** - [archit041198](https://github.com/archit041198)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
