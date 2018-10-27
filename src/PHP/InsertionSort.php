@@ -7,13 +7,13 @@
 
 function sortInsertion($array) {
     $sortedArray = array();
-    for ($i = 0 ; $i &lt; count($array); $i++) {
+    for ($i = 0 ; $i < count($array); $i++) {
         $element = $array[$i];
         $j = $i;
-        while($j &gt; 0 &amp;&amp; $sortedArray[$j-1] &gt; $element) {
+        while($j > 0 && $sortedArray[$j-1] > $element) {
            $sortedArray[$j] = $sortedArray[$j-1];
             $j = $j-1;
-        }&lt;
+        }
         $sortedArray[$j] = $element;
     }
     return $sortedArray;
