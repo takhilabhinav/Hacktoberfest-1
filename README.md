@@ -92,6 +92,10 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **DragonFury24** - [DragonFury24](https://github.com/DragonFury24)
   * **Cinthia Katiane** - [CinthiaKatiane](https://github.com/CinthiaKatiane)
   * **Eduardo Gusmão** - [eduardokum](https://github.com/eduardokum)
+  * **Anoop Moothedath** - [Crazyfox98](https://github.com/Crazyfox98)
+  * **Angus Gardner** - [AngusGardnerWKC](https://github.com/AngusGardnerWKC)
+  * **Panagiotis Kazakos** - [pkaz](https://github.com/pkaz)
+  * **Alan Fagundes** - [alanfgn](https://github.com/alanfgn)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
