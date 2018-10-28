@@ -99,6 +99,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **nityaGupta** - [nityaGupta](https://github.com/nityaGupta)
   * **dkessel** - [dkessel](https://github.com/dkessel)
   * **Archit** - [archit041198](https://github.com/archit041198)
+  * **NAVEEN KRISHNA BOTTA** - [nemnous](https://github.com/nemnous)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
