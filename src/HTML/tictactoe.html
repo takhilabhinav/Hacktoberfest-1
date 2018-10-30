@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta lang="en-us">
+    <title>Tic Tac Toe</title>
+    <style>
+
+      .btn-ttt {
+        max-width: 80px;
+        margin: 0;
+        padding: 0;
+        font-weight: bold;
+        font-size: 2em;
+      }
+
+    </style>
+  </head>
+  
+  <body>
+    <h1>Tic-Tac-Toe</h1>
+    <input class="btn-ttt" id="1" type="button" value=" " />
+    <input class="btn-ttt" id="2" type="button" value=" " />
+    <input class="btn-ttt" id="3" type="button" value=" " /><br />
+    <input class="btn-ttt" id="4" type="button" value=" " />
+    <input class="btn-ttt" id="5" type="button" value=" " />
+    <input class="btn-ttt" id="6" type="button" value=" " /><br />
+    <input class="btn-ttt" id="7" type="button" value=" " />
+    <input class="btn-ttt" id="8" type="button" value=" " />
+    <input class="btn-ttt" id="9" type="button" value=" " />
+    <br /><br />
+    <p id="selected"></p>
+    <input class="btn-ttt" id="select-x" type="button" value="X" />
+    <input class="btn-ttt" id="select-o" type="button" value="O" />
+
+    <script>
+
+      var btnX = document.getElementById("select-x");
+      var btnO = document.getElementById("select-o");
+
+      var selectedLabel = document.getElementById("selected");
+      selectedLabel.innerText = "Please select X or O";
+      var selected = "";
+
+      var won = "";
+
+      btnX.addEventListener("click", function() {
+        selected = "X";
+        selectedLabel.innerText = selected + " is selected.";
+      });
+      btnO.addEventListener("click", function() {
+        selected = "O";
+        selectedLabel.innerText = selected + " is selected.";
+      });
+
+
+      var buttons = [];
+      for (var i = 1; i < 10; i++) {
+        var button = document.getElementById(i.toString());
+        button.value = "   ";
+        button.addEventListener("click", function(a) {
+          this.value = selected;
+          checkBoard();
+        });
+        console.log("button " + button);
+        buttons.push(button);
+      }
+      console.log(buttons);
+      var buttonMap = [
+        [buttons[0], buttons[1], buttons[2]],
+        [buttons[3], buttons[4], buttons[5]],
+        [buttons[6], buttons[7], buttons[8]]
+      ];
+
+      function checkBoard() {
+
+        // Check rows of columns
+        for (var i = 0; i < buttonMap.length; i++) {
+          
+          var amountX = 0;
+          var amountO = 0;
+
+          for (var j = 0; j < buttonMap[i].length; j++) {
+            if (buttonMap[j][i].value == "X") {
+              amountX++;
+            }
+            else if (buttonMap[j][i].value == "O") {
+              amountO++;
+            }
+
+          }
+
+          if (amountX == 3) {
+            won = "X";
+          }
+          
+          if (amountO == 3) {
+            won = "O";
+          }
+
+          console.log(amountX + " X's and " + amountO + " O's found for column " + i);
+        }
+
+        // Check columns of rows
+        for (var i = 0; i < buttonMap.length; i++) {
+
+          var amountX = 0;
+          var amountO = 0;
+
+          for (var j = 0; j < buttonMap[i].length; j++) {
+
+            if (buttonMap[i][j].value == "X") {
+              amountX++;
+            }
+            else if (buttonMap[i][j].value == "O") {
+              amountO++;
+            }
+
+          }
+
+          if (amountX == 3) {
+            won = "X";
+          }
+
+          if (amountO == 3) {
+            won = "O";
+          }
+
+          console.log(amountX + " X's and " + amountO + " O's found for row " + i);
+        }
+
+        // Check diagonals
+
+        // Check \
+        if (buttonMap[0][0].value == "X" &&
+            buttonMap[1][1].value == "X" &&
+            buttonMap[2][2].value == "X") {
+          won = "X";
+        }
+        if (buttonMap[0][0].value == "O" &&
+            buttonMap[1][1].value == "O" &&
+            buttonMap[2][2].value == "O") {
+          won = "O";
+        }
+
+        // Check /
+        if (buttonMap[2][0].value == "X" &&
+          buttonMap[1][1].value == "X" &&
+          buttonMap[0][2].value == "X") {
+          won = "X";
+        }
+        if (buttonMap[2][0].value == "O" &&
+            buttonMap[1][1].value == "O" &&
+            buttonMap[0][2].value == "O") {
+          won = "O";
+        }
+
+
+
+        if (won !== "") {
+          alert(won + " won!");
+        }
+
+      }
+
+
+
+
+    </script>
+
+  </body>
+</html>
