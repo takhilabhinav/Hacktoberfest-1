@@ -105,6 +105,7 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **Randriambolaniaina Edena** - [EdenaTics](https://github.com/EdenaTics)
   * **Akash Nidhi P S** - [SkyTreasure](https://github.com/SkyTreasure)
   * **HemalKit** - [HemalKit](https://github.com/HemalKit)
+  * **sarithay** - [sarithay](https://github.com/sarithay)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
