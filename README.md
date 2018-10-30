@@ -102,6 +102,9 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
   * **NAVEEN KRISHNA BOTTA** - [nemnous](https://github.com/nemnous)
   * **Shruti Gupta** - [guptshruti](https://github.com/guptshruti)
   * **Jared York** - [jaredyork](https://github.com/jaredyork)
+  * **Randriambolaniaina Edena** - [EdenaTics](https://github.com/EdenaTics)
+  * **Akash Nidhi P S** - [SkyTreasure](https://github.com/SkyTreasure)
+  * **HemalKit** - [HemalKit](https://github.com/HemalKit)
 
 See also the list of [contributors](https://github.com/ManuelGil/Hacktoberfest/contributors)
  who participated in this project.
