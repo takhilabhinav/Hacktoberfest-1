@@ -2,13 +2,15 @@
 	<h1> Hacktoberfest </h1>
 </div>
 
-CELEBRATING FIVE YEARS!
+## Event details
 
-Hacktoberfest is a global event which motivates open source contributors to boost up their contribution. As well as it is a month-long celebration of open source software in partnership with GitHub. In addition to that by contributing to this challenge you can earn a limited edition T-Shirt.
+Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
-To get a shirt, you must make five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won't count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
+* Hacktoberfest is open to everyone in our global community!
+* Pull requests can be made in any GitHub-hosted repositories/projects.
+* Sign up anytime between October 1 and October 31.
 
-[Website](https://hacktoberfest.lingonsaft.com/)
+[Website](https://hacktoberfest.digitalocean.com/)
 
 <a name="contributors"></a>
 ## :eyeglasses: Contributors
